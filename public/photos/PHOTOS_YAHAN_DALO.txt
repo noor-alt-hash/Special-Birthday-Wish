@@ -1,0 +1,2 @@
+Apni JPEG photos yahan daalo: photo1.jpg, photo2.jpg, photo3.jpg, photo4.jpg, photo5.jpg
+(naam config.js ke PHOTOS list se match hona chahiye)
